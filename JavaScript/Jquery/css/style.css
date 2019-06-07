@@ -1,0 +1,21 @@
+    /*CSS*/
+
+    #tela_jogo{
+
+        display: none; 
+        margin-top: 50px; 
+        text-align: center
+    }
+   
+ span {
+    text-align: center;
+ }
+    /* ================ Tabuleiro do Joggo ================== */
+
+    .titulo{
+        text-align: center;
+        color: #5054cc;
+        font-size: 50px;
+        text-shadow: 2px 3px 2px gray;
+    }
+
