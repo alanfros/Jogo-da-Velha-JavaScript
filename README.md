@@ -1,4 +1,4 @@
-# Jogo-da-Velha-JavaScript
+## Jogo-da-Velha-JavaScript
 
 Material prático de estudos em JavaScript com JQuery.
 
